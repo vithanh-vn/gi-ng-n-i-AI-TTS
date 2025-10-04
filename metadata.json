@@ -1,0 +1,7 @@
+{
+  "name": "Công cụ đa năng tạo Giọng nói và Sub + Dịch",
+  "description": "Một bộ công cụ AI mạnh mẽ để tạo giọng nói, dịch văn bản, hình ảnh, video và gỡ băng âm thanh. Hỗ trợ nhiều ngôn ngữ với nhiều giọng đọc, tập trung vào chất lượng bản địa.",
+  "requestFramePermissions": [
+    "display-capture"
+  ]
+}
